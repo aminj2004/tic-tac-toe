@@ -1,0 +1,22 @@
+.identity {
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+    padding: 2px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+}
+.identity:hover {
+    background-color: grey;
+}
+#table {
+    margin: auto;
+}
+.oset{
+   background-color: darkorange !important; 
+}
+.xset{
+    background-color: red !important;   
+}
