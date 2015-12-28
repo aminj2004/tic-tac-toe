@@ -1,6 +1,9 @@
 #HEADING {
     color: blue;
 }
+body {
+    background-color: red;
+}
 .identity {
     background-color: aqua;
     height: 100px;
